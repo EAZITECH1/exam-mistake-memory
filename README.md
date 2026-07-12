@@ -1,7 +1,7 @@
 # Exam Mistake Memory — a study agent that never lets you fail the same question twice
 
 > **Walrus Memory Prompt Jam** submission. System prompt, copy-pasteable into any MCP client.
-> Built and proven on real Pharm.D coursework at LASUCOM. Works for any exam.
+> Built and proven on real Pharm.D coursework at Lagos State University College Of Medicine. Works for any exam.
 
 ---
 
