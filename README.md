@@ -5,6 +5,18 @@
 
 ---
 
+## For judges — 60-second verify
+
+| | |
+| --- | --- |
+| 📋 Prompt | [`prompts/exam-mistake-memory.md`](prompts/exam-mistake-memory.md) — copy-paste, fill the config block, done |
+| 🎬 Demo (<3 min) | [youtu.be/o_B-LKcSS9g](https://youtu.be/o_B-LKcSS9g) — real mistakes written in session 1, recalled cold in session 2 |
+| ⛓️ On-chain account | [`MemWalAccount` on Suiscan](https://suiscan.xyz/mainnet/object/0x6c7d762a4029662d9ebbb33c631e4d3d9e68812655fb678e2275ab485f8a36a3) — shared object holding the memories |
+| 🧠 Blobs | 17 on Mainnet, written during real pharmacology study sessions — not a scripted loop. [Every blob ID ↓](evidence/blobs.md) |
+| 🔧 Tool surface | All six: `remember`, `recall`, `remember_bulk`, `analyze`, `restore`, `health` — each tied to a specific trigger, not decoration |
+
+---
+
 ## Problem
 
 **Who:** anyone studying for a high-stakes exam with an AI assistant. Students, USMLE/bar/CFA candidates, certification takers.
@@ -74,8 +86,9 @@ The visible result: the agent's behaviour changes between sessions, not within o
 
 | Item | Value |
 | --- | --- |
-| Agent ID | `0d835438f18ab5ac0a3def8b556bee9b96fd2d14d7a4578e4c5f88c94c389a48` |
-| Blobs written on Mainnet | `17` |
+| Agent ID (delegate public key) | `0d835438f18ab5ac0a3def8b556bee9b96fd2d14d7a4578e4c5f88c94c389a48` |
+| MemWalAccount object (explorer) | [`0x6c7d…36a3` on Suiscan](https://suiscan.xyz/mainnet/object/0x6c7d762a4029662d9ebbb33c631e4d3d9e68812655fb678e2275ab485f8a36a3) |
+| Blobs written on Mainnet | `17` — `pcl302` (pharmacology mistakes + session summaries): 15 · `exam-intel` (question-pattern intel): 2 — [full blob-ID list](evidence/blobs.md) |
 | Dedicated Sessions wallet | `0x9efad55f790d1f38647c565aa564cb381e145d3e7b635bb0538fcc0429f55a34` |
 | Demo video | [youtu.be/o_B-LKcSS9g](https://youtu.be/o_B-LKcSS9g) |
 
