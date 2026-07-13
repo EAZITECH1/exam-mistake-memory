@@ -11,8 +11,8 @@ Deadline: July 13, 2026, 2:00 PM UTC. Started July 12. One day.
 - [x] Repo published
 
 ## Doing
-- [ ] Study session 1: real pharmacology past questions, screen-recorded, mistakes → writes
-- [ ] Study session 2 (fresh instance): "prep me" → Weakness Briefing recalls session 1
+- [x] Study session 1: real pharmacology past questions, screen-recorded, mistakes → writes
+- [x] Study session 2 (fresh instance): "prep me" → Weakness Briefing recalls session 1
 - [x] Confirm ≥10 blobs on Mainnet, record agent ID + count in README (17 blobs)
 
 ## Then
