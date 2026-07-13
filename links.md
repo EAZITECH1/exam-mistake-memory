@@ -18,4 +18,4 @@
 
 ## Me
 - X: https://x.com/eazitechh
-- Portfolio (on Walrus): https://eazitech.wal.app
+- Portfolio: https://eazitech.xyz

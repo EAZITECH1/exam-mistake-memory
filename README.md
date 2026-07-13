@@ -104,4 +104,4 @@ Demo shows two real study sessions on my pharmacology past questions: mistakes w
 - **Client:** Claude Code (works in any MCP client: Cursor, Codex, Claude Desktop, OpenCode)
 - **MCP:** `@mysten-incubation/memwal-mcp`
 - **Storage:** Walrus Mainnet via the hosted relayer
-- **Author:** Israel — EAZITECH ([@eazitechh](https://x.com/eazitechh)) · eazitech.wal.app
+- **Author:** Israel — EAZITECH ([@eazitechh](https://x.com/eazitechh)) · eazitech.xyz
