@@ -12,8 +12,8 @@ From the official event rules.
 | Full copy-pasteable prompt + 2–5 sentence explanation | ✅ README |
 | Dedicated Sessions wallet address provided | ✅ |
 | Demo video ≤3 min | ✅ https://youtu.be/o_B-LKcSS9g |
-| Feedback form + GitHub tickets on MystenLabs/MemWal | ⬜ |
-| Joined Walrus Discord | ⬜ |
+| Feedback form + GitHub tickets on MystenLabs/MemWal | ✅ |
+| Joined Walrus Discord | ✅ |
 | X post with #Walrus | ✅ https://x.com/eazitechh/status/2076591530412761590 |
-| Submitted on walform | ⬜ |
-| Submitted on DeepSurge | ⬜ |
+| Submitted on walform | ✅ |
+| Submitted on DeepSurge | ✅ |
