@@ -77,7 +77,7 @@ The visible result: the agent's behaviour changes between sessions, not within o
 | Agent ID | `0d835438f18ab5ac0a3def8b556bee9b96fd2d14d7a4578e4c5f88c94c389a48` |
 | Blobs written on Mainnet | `17` |
 | Dedicated Sessions wallet | `0x9efad55f790d1f38647c565aa564cb381e145d3e7b635bb0538fcc0429f55a34` |
-| Demo video (on Walrus) | pending |
+| Demo video | [youtu.be/o_B-LKcSS9g](https://youtu.be/o_B-LKcSS9g) |
 
 Demo shows two real study sessions on my pharmacology past questions: mistakes written in session one, the Weakness Briefing recalling them cold in a fresh session two.
 
@@ -90,12 +90,12 @@ Demo shows two real study sessions on my pharmacology past questions: mistakes w
 | Copy-pasteable prompt | ✅ [`prompts/exam-mistake-memory.md`](prompts/exam-mistake-memory.md) |
 | Problem statement | ✅ above |
 | ≥10 Mainnet blobs + agent ID | ✅ table above |
-| Demo video <3 min on Walrus | ✅ link above |
+| Demo video <3 min | ✅ [youtu.be/o_B-LKcSS9g](https://youtu.be/o_B-LKcSS9g) |
 | DeepSurge submission | ✅ |
 | Walform submission | ✅ |
 | Feedback form + GitHub issues | ✅ |
 | Discord joined | ✅ |
-| X post with #Walrus | pending |
+| X post with #Walrus | ✅ [x.com/eazitechh/status/2076591530412761590](https://x.com/eazitechh/status/2076591530412761590) |
 
 ---
 

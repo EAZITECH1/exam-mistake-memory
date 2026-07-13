@@ -3,8 +3,8 @@
 ## Submission
 - Walform: https://walform.wal.app/f?formId=0x308876d0ae9c09d3e805580ac89ea8bd6a3eec7f5535969b267bde80ef3049d4
 - DeepSurge hackathon: https://deepsurge.xyz/hackathons/77d00c13-63af-4bfa-b6a3-ce3fe5662e25
-- Demo video on Walrus: [pending]
-- X post: [pending]
+- Demo video: https://youtu.be/o_B-LKcSS9g
+- X post: https://x.com/eazitechh/status/2076591530412761590
 
 ## Docs used
 - Walrus Memory overview: https://docs.wal.app/walrus-memory/getting-started/what-is-walrus-memory
