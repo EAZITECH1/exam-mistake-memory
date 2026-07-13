@@ -75,7 +75,7 @@ The visible result: the agent's behaviour changes between sessions, not within o
 | Item | Value |
 | --- | --- |
 | Agent ID | `0d835438f18ab5ac0a3def8b556bee9b96fd2d14d7a4578e4c5f88c94c389a48` |
-| Blobs written on Mainnet | `2` |
+| Blobs written on Mainnet | `17` |
 | Dedicated Sessions wallet | `0x9efad55f790d1f38647c565aa564cb381e145d3e7b635bb0538fcc0429f55a34` |
 | Demo video (on Walrus) | pending |
 
